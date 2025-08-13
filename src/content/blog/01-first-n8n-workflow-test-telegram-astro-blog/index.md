@@ -2,7 +2,7 @@
 title: "First n8n Workflow Test: Telegram to Astro Blog"
 slug: "first-n8n-workflow-test-telegram-astro-blog"
 description: "Documenting the initial setup and successful test of an n8n workflow to publish content from a Telegram bot directly to an Astro static site."
-date: 2023-10-27
+date: 2025-08-13
 excerpt: 'This post details my very first successful test of an n8n workflow, automating the process of publishing content from a Telegram bot directly to my Astro static site.'
 tags: ['n8n']
 format: md
