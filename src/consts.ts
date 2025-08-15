@@ -25,16 +25,16 @@ export const PROJECTS: Metadata = {
 };
 
 export const SOCIALS: Socials = [
-  {
-    NAME: "X",
-    HREF: "https://x.com/",
-  },
+  // {
+  //   NAME: "X",
+  //   HREF: "https://x.com/",
+  // },
   {
     NAME: "GitHub",
     HREF: "https://github.com/yamustofa",
   },
   {
     NAME: "Website",
-    HREF: "https://astro-micro-umber.vercel.app/",
+    HREF: "https://littlecodejourney.vercel.app/",
   },
 ];
